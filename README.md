@@ -7,7 +7,7 @@ The framework leverages various libraries and tools to facilitate data-driven te
 
 
 ## 🚀 About Me
-Hi, My Name is Shrekanth and I have 2+ years of experience in Automation Testing using technologies like Selenium Webdriver,
+Hi, My Name is Shrekanth and I have 3+ years of experience in Automation Testing using technologies like Selenium Webdriver,
 RestAssured, Appium. 
 
 My major expertise is in Java Programming Language.
@@ -17,6 +17,25 @@ My major expertise is in Java Programming Language.
 
 - [@AutomationE2EProject](https://github.com/AutomationE2EProject/AutomationE2E)
 - EmailAddress: 1996srikanthb@gmail.com
+
+https://www.linkedin.com/in/shrekanth-128900315
+
+A brief description of what this project does and who it's for
+
+🔗 Links
+
+
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
+## 🔗 Links
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrekanth-128900315/)
+
 
 
 
