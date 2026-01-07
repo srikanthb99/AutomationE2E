@@ -15,8 +15,8 @@ My major expertise is in Java Programming Language.
 
 ## Author
 
-- [@AutomationE2EProject](https://github.com/AutomationE2EProject/AutomationE2E)
-- EmailAddress: 1996srikanthb@gmail.com
+- [@srikanthb99](https://github.com/srikanthb99/AutomationE2E)
+- EmailAddress: srikanth9493.b@gmail.com
   
 ## 🔗 Links
 
